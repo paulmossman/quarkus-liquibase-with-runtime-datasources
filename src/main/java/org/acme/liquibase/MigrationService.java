@@ -6,7 +6,6 @@ import io.quarkus.liquibase.LiquibaseFactory;
 import liquibase.Liquibase;
 import liquibase.changelog.ChangeSetStatus;
 import javax.enterprise.context.ApplicationScoped;
-import javax.enterprise.context.Dependent;
 import javax.inject.Inject;
 
 import org.jboss.logging.Logger;
